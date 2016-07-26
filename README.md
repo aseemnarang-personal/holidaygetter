@@ -22,3 +22,5 @@ CA : Canada
 IN : India
 
 More country codes can be found on the api documentation at https://holidayapi.com 
+
+The output is a list of holidays. Each Holiday is a list in the format [date,  holiday name, observed date, Public(bool)]
